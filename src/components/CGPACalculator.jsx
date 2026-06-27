@@ -124,7 +124,7 @@ function CGPACalculator() {
       )}
 
       <footer>
-        <p>Kritika Chaubey | kritika@email.com</p>
+        <p>Kritika Chaubey | kritikachaubey04@gmail.com</p>
         <a href="https://digitalheroesco.com" target="_blank" rel="noreferrer">
           <button className="btn-dh">Built for Digital Heroes</button>
         </a>
